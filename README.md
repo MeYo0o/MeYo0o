@@ -76,7 +76,9 @@
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meyo0o&show_icons=true&locale=en&layout=compact" alt="meyo0o" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meyo0o&show_icons=true&locale=en" alt="meyo0o" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=meyo0o&show_icons=true&locale=en" alt="meyo0o" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meyo0o&" alt="meyo0o" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meyo0o&" alt="meyo0o" /></p>
 
