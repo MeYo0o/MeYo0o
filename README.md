@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moaz Ahmed</h1>
-<h3 align="center">Flutter Developer 🧑🏻‍💻  Gamer  🎮  Family Guy 👨‍👩‍👦</h3>
+<h3 align="center">Flutter Developer 👨‍💻  Gamer  🎮  Family Guy 👨‍👩‍👦</h3>
 
 - 📫 Check out my website: [Moaz Dev Portfolio](https://moaz-dev.web.app)
 - 🔭 I’m currently working on Payment Gateway Application for the Egyptian Bureau of Engineering
@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with Baas (Backend as a service).
 - 💬 Ask me about Flutter & Dart.
 - 📫 How to reach me **moaz2025@gmail.com**
-- ⚡ Fun fact: I'll think about something funny and post it soon.😅
+- ⚡ Fun fact: I found out that only to achieve something , you have to tell people about it when you actually achieve it.😅
 
 
 
