@@ -28,7 +28,7 @@
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="left">
   <a href="https://www.linkedin.com/in/moaz-ahmed-146a16b8/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -52,35 +52,40 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
-
-
-<h3>Statistical Data :-</h3>
-<p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=MeYo0o&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="adam-pw" 
-    bg_color=#808080/></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=MeYo0o&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="Moaz" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeYo0o&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Moaz" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-      
- <br>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meyo0o&show_icons=true&locale=en&layout=compact" alt="meyo0o" /></p>
+ ## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MeYo0o&theme=algolia" /></p>
+
 <br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=meyo0o&show_icons=true&locale=en" alt="meyo0o" /></p>
-<br>
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=meyo0o&" alt="meyo0o" /></p>
-<br>
-<br>
+ 
+ ## 📊 Github Stats
+
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MeYo0o&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Moaz" height="192px"/>
+  <br/>
+    <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Moaz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MeYo0o&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  
+  
+  </p>
+
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/MeYo0o"><img alt="Moaz's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MeYo0o&custom_title=Moaz%27s%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+<br/>
+
+### :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MeYo0o&layout=compact&theme=algolia" alt="Moaz" /></a> </p>
 
