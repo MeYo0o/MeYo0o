@@ -2,8 +2,8 @@
 <h3 align="center">Mobile Development Team Lead | Flutter 👨‍💻  Gamer  🎮  Family Guy 👨‍👩‍👦‍👦</h3>
 
 - 📫 Check out my website: [Moaz Dev Portfolio](https://moaz-dev.web.app)
-- 🔭 I’m currently working on TipTop [Delivery App in Iraq] for TroyLab.
-- 🌱 I’m currently learning Flutter , Dart & Golang.
+- 🔭 I’m currently working on Slack-like app for Desktop & Mobile using Flutter [Real Cross-Platform].
+- 🌱 I’m currently learning Flutter , Dart , Swift & SwiftUI.
 - 👯 I’m looking to collaborate on Udemy [E-Learning] like application.
 - 🤔 I’m looking for help with Baas (Backend as a service).
 - 💬 Ask me about Flutter & Dart.
