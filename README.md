@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.innolabs.ai/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=26&duration=3000&color=2AA889&center=true&vCenter=true&width=500&lines=Leading+Digital+Innovation;Transforming+Ideas+into+Reality;Building+Cutting-Edge+Solutions" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=26&duration=5000&color=2AA889&center=true&vCenter=true&width=500&lines=Leading+Digital+Innovation;Transforming+Ideas+into+Reality;Building+Cutting-Edge+Solutions" alt="Headline" />
   </a>
 </p>
 
@@ -12,10 +12,6 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=MeYo0o&label=Profile%20views&color=0e75b6&style=flat" alt="Moaz" /> 
 </p>
-
-<div align="center">
-  <img src="https://cdn.dribbble.com/userupload/23767519/file/original-77c50c1cc3f9e2d5d0832fddd9616a11.gif" width="800" height="400" alt="Software Team Working">
-</div>
 
 <br>
 
