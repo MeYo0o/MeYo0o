@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.innolabs.ai/">
-  <img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=26&duration=3000&color=2AA889&center=true&vCenter=true&width=500&lines=Leading+Digital+Innovation;Transforming+Ideas+into+Reality;Building+Cutting-Edge+Solutions" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=26&duration=3000&color=2AA889&center=true&vCenter=true&width=500&lines=Leading+Digital+Innovation;Transforming+Ideas+into+Reality;Building+Cutting-Edge+Solutions" alt="Headline" />
   </a>
 </p>
 
@@ -12,6 +12,10 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=MeYo0o&label=Profile%20views&color=0e75b6&style=flat" alt="Moaz" /> 
 </p>
+
+<div align="center">
+  <img src="https://cdn.dribbble.com/userupload/23767519/file/original-77c50c1cc3f9e2d5d0832fddd9616a11.gif" width="800" height="400" alt="Software Team Working">
+</div>
 
 <br>
 
@@ -30,35 +34,54 @@
 
 Here are some of our flagship projects at Innovation Labs:
 
-### 🅿️ Pass - Car Parking App
-Revolutionizing the car parking experience with innovative features like ticketless parking, prebooking, and digital wallet. Serving over 27 parking locations across Kuwait, Bahrain, and expanding throughout the Middle East.
-
-[![Pass App](https://u.cubeupload.com/MeYo/Passmin.png)](https://github.com/MeYo0o/pass-production-screenshots/)
-
-### 💬 Chatty - Business Communication Platform
-A Slack clone for business chat, voice & video calls with enterprise-grade security and reliability.
-
-[![Chatty](https://u.cubeupload.com/MeYo/Chattymin.png)](https://github.com/MeYo0o/slack-clone-production-screenshots/)
-
-### 🛍️ Matjar - Multi-Vendor E-Commerce Platform
-A comprehensive e-commerce solution supporting multiple vendors with advanced features.
-
-[![Matjar](https://u.cubeupload.com/MeYo/Matjarmin.png)](https://github.com/MeYo0o/matjar-production-screenshots/)
-
-### 🚚 Tiptop - Multi-Service Delivery App
-A delivery app based in Iraq offering Food, Grocery, Water Delivery, and Taxi services.
-
-[![Tiptop](https://u.cubeupload.com/MeYo/TipTopmin.png)](https://github.com/MeYo0o/tiptop-production-screenshots/)
-
-### 👔 CVme - Professional Networking Platform
-A LinkedIn/Facebook hybrid multiplatform app connecting employers, companies and employees.
-
-[![CVme](https://u.cubeupload.com/MeYo/CVmemin.png)](https://github.com/MeYo0o/cvme-production-screenshots/)
-
-### 🎓 All Academy - Educational Platform
-A courses app connecting instructors and students, similar to Udemy.
-
-[![All Academy](https://u.cubeupload.com/MeYo/AllAcademymin.png)](https://github.com/MeYo0o/allAcademy-production-screenshots)
+<table>
+  <tr>
+    <td width="33.3%" align="center">
+      <h3>🅿️ Pass - Car Parking App</h3>
+      <a href="https://github.com/MeYo0o/pass-production-screenshots/">
+        <img src="https://u.cubeupload.com/MeYo/Passmin.png" width="100%" alt="Pass App">
+      </a>
+      <p>Revolutionizing car parking with ticketless parking, prebooking, and digital wallet across Kuwait and Bahrain.</p>
+    </td>
+    <td width="33.3%" align="center">
+      <h3>💬 Chatty - Business Communication</h3>
+      <a href="https://github.com/MeYo0o/slack-clone-production-screenshots/">
+        <img src="https://u.cubeupload.com/MeYo/Chattymin.png" width="100%" alt="Chatty">
+      </a>
+      <p>A Slack clone for business chat, voice & video calls with enterprise-grade security.</p>
+    </td>
+    <td width="33.3%" align="center">
+      <h3>🛍️ Matjar - E-Commerce Platform</h3>
+      <a href="https://github.com/MeYo0o/matjar-production-screenshots/">
+        <img src="https://u.cubeupload.com/MeYo/Matjarmin.png" width="100%" alt="Matjar">
+      </a>
+      <p>A comprehensive multi-vendor e-commerce solution with advanced features.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center">
+      <h3>🚚 Tiptop - Multi-Service Delivery</h3>
+      <a href="https://github.com/MeYo0o/tiptop-production-screenshots/">
+        <img src="https://u.cubeupload.com/MeYo/TipTopmin.png" width="100%" alt="Tiptop">
+      </a>
+      <p>Food, Grocery, Water Delivery + Taxi services based in Iraq.</p>
+    </td>
+    <td width="33.3%" align="center">
+      <h3>👔 CVme - Professional Networking</h3>
+      <a href="https://github.com/MeYo0o/cvme-production-screenshots/">
+        <img src="https://u.cubeupload.com/MeYo/CVmemin.png" width="100%" alt="CVme">
+      </a>
+      <p>A LinkedIn/Facebook hybrid connecting employers, companies and employees.</p>
+    </td>
+    <td width="33.3%" align="center">
+      <h3>🎓 All Academy - Educational Platform</h3>
+      <a href="https://github.com/MeYo0o/allAcademy-production-screenshots">
+        <img src="https://u.cubeupload.com/MeYo/AllAcademymin.png" width="100%" alt="All Academy">
+      </a>
+      <p>A courses app connecting instructors and students, similar to Udemy.</p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
