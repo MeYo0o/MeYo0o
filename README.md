@@ -7,8 +7,6 @@
   </a>
 </p>
 
-<br>
-
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=MeYo0o&label=Profile%20views&color=0e75b6&style=flat" alt="Moaz" /> 
 </p>
@@ -92,23 +90,77 @@ Here are some of our flagship projects at Innovation Labs:
 
 ### Development Technologies
 <p align="left">
+  <!-- Flutter & Dart -->
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
   </a>
+  
+  <!-- Go Language -->
   <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="40" height="40"/> 
   </a>
+  
+  <!-- Backend & Databases -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+  
+  <!-- Linux & Terminal -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a>
+  <a href="https://icons8.com/icons/set/linux-terminal" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/console.png" alt="terminal" width="40" height="40"/> 
+  </a>
+  <a href="https://icons8.com/icons/set/linux-terminal" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="ubuntu" width="40" height="40"/> 
+  </a>
+  
+  <!-- Version Control -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
+  </a>
+  <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> 
+  </a>
+  
+  <!-- CI/CD -->
+  <a href="https://icons8.com/icons/set/continuous-integration" target="_blank" rel="noreferrer"> 
+    <img src="https://img.icons8.com/dusk/64/000000/continuous-integration.png" alt="ci-cd" width="40" height="40"/> 
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a>
+  
+  <!-- Backend & API -->
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+  <a href="https://nginx.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
+  </a>
+  
+  <!-- Mobile Development -->
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/> 
   </a>
 </p>
 
