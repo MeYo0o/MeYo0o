@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.innolabs.ai/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=26&duration=3000&color=2AA889&center=true&vCenter=true&width=500&lines=Leading+Digital+Innovation;Transforming+Ideas+into+Reality;Building+Cutting-Edge+Solutions" alt="Headline" />
+    <img src="https://www.innolabs.ai/static/media/Inno%20Logo.f01a7f7f1801f864a230.png" alt="Headline" />
   </a>
 </p>
 
