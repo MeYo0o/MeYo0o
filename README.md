@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moaz Ahmed</h1>
-<h3 align="center">CEO & Tech Visionary at Innovation Labs</h3>
+<h3 align="center">Senior Full-Stack Software Engineer @ Innovation Labs</h3>
 
 <p align="center">
   <a href="https://www.innolabs.ai/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=26&duration=5000&color=2AA889&center=true&vCenter=true&width=500&lines=Leading+Digital+Innovation;Transforming+Ideas+into+Reality;Building+Cutting-Edge+Solutions" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=26&duration=5000&color=2AA889&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+Software+Engineer;Flutter+%7C+Go+Backend+%7C+Web;Building+Scalable+Products+from+Zero+to+Production" alt="Headline" />
   </a>
 </p>
 
@@ -15,176 +15,87 @@
 
 ## 👨‍💻 About Me
 
-- 🚀 **CEO & Founder** of **[Innovation Labs](https://www.innolabs.ai/)**
-- 🎯 **Tech Visionary** & **Project Planner** specializing in digital transformation
-- 📱 **Mobile Team Lead** with extensive Flutter expertise
-- ⚡ **Junior Golang Software Engineer**
-- 🌟 Passionate about building **cutting-edge digital solutions**
-- 📫 How to reach me: **moaz@innolabs.ai**
+- 🧠 **Senior Full-Stack Software Engineer** with strong product mindset  
+- 📱 **Flutter Mobile Engineer** — **6+ years** building production-grade apps  
+- ⚙️ **Go Backend Developer** — **2+ years** designing scalable APIs & services  
+- 🌐 **Web Developer** (React / Modern Web Stack)  
+- 🏗️ Building real-world products from **idea → architecture → production**
+- 🧪 Strong focus on **clean code, scalability, and performance**
+- 🏢 Currently building products under **[Innovation Labs](https://www.innolabs.ai/)**
+- 📫 Reach me at: **moaz@innolabs.ai**
 
 <br>
 
-## 🏢 Innovation Labs Portfolio
-
-Here are some of our flagship projects at Innovation Labs:
+## 🚀 Selected Projects (Production-Level)
 
 <table>
   <tr>
     <td width="33.3%" align="center">
-      <h3>🅿️ Pass - Car Parking App</h3>
+      <h3>🅿️ Pass — Smart Parking App</h3>
       <a href="https://github.com/MeYo0o/pass-production-screenshots/">
         <img src="https://u.cubeupload.com/MeYo/Passmin.png" width="100%" alt="Pass App">
       </a>
-      <p>Revolutionizing car parking with ticketless parking, prebooking, and digital wallet across Kuwait and Bahrain.</p>
+      <p>Ticketless parking, pre-booking & digital wallet used across Kuwait & Bahrain.</p>
     </td>
     <td width="33.3%" align="center">
-      <h3>💬 Chatty - Business Communication</h3>
+      <h3>💬 Chatty — Business Communication</h3>
       <a href="https://github.com/MeYo0o/slack-clone-production-screenshots/">
         <img src="https://u.cubeupload.com/MeYo/Chattymin.png" width="100%" alt="Chatty">
       </a>
-      <p>A Slack clone for business chat, voice & video calls with enterprise-grade security.</p>
+      <p>Enterprise chat platform with messaging, voice & video calls.</p>
     </td>
     <td width="33.3%" align="center">
-      <h3>🛍️ Matjar - E-Commerce Platform</h3>
+      <h3>🛍️ Matjar — E-Commerce Platform</h3>
       <a href="https://github.com/MeYo0o/matjar-production-screenshots/">
         <img src="https://u.cubeupload.com/MeYo/Matjarmin.png" width="100%" alt="Matjar">
       </a>
-      <p>A comprehensive multi-vendor e-commerce solution with advanced features.</p>
+      <p>Multi-vendor e-commerce system with advanced seller & order management.</p>
     </td>
   </tr>
   <tr>
     <td width="33.3%" align="center">
-      <h3>🚚 Tiptop - Multi-Service Delivery</h3>
+      <h3>🚚 Tiptop — Multi-Service Delivery</h3>
       <a href="https://github.com/MeYo0o/tiptop-production-screenshots/">
         <img src="https://u.cubeupload.com/MeYo/TipTopmin.png" width="100%" alt="Tiptop">
       </a>
-      <p>Food, Grocery, Water Delivery + Taxi services based in Iraq.</p>
+      <p>Food, grocery, water delivery + taxi services (Iraq).</p>
     </td>
     <td width="33.3%" align="center">
-      <h3>👔 CVme - Professional Networking</h3>
+      <h3>👔 CVme — Professional Networking</h3>
       <a href="https://github.com/MeYo0o/cvme-production-screenshots/">
         <img src="https://u.cubeupload.com/MeYo/CVmemin.png" width="100%" alt="CVme">
       </a>
-      <p>A LinkedIn/Facebook hybrid connecting employers, companies and employees.</p>
+      <p>LinkedIn-like platform connecting companies, recruiters & professionals.</p>
     </td>
     <td width="33.3%" align="center">
-      <h3>🎓 All Academy - Educational Platform</h3>
+      <h3>🎓 All Academy — Online Courses</h3>
       <a href="https://github.com/MeYo0o/allAcademy-production-screenshots">
         <img src="https://u.cubeupload.com/MeYo/AllAcademymin.png" width="100%" alt="All Academy">
       </a>
-      <p>A courses app connecting instructors and students, similar to Udemy.</p>
+      <p>Instructor-student platform similar to Udemy.</p>
     </td>
   </tr>
 </table>
 
 <br>
 
-## 🛠️ Technical Expertise
+## 🛠️ Tech Stack
 
-### Leadership & Strategy
-- Team Leadership & Management
-- Project Planning & Execution
-- Technical Vision & Roadmapping
-- Business Development
-- Client Relations & Stakeholder Management
-
-### Development Technologies
-<p align="left">
-  <!-- Flutter & Dart -->
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a>
-  
-  <!-- Go Language -->
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="40" height="40"/> 
-  </a>
-  
-  <!-- Backend & Databases -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  
-  <!-- Linux & Terminal -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://icons8.com/icons/set/linux-terminal" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/console.png" alt="terminal" width="40" height="40"/> 
-  </a>
-  <a href="https://icons8.com/icons/set/linux-terminal" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="ubuntu" width="40" height="40"/> 
-  </a>
-  
-  <!-- Version Control -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://github.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> 
-  </a>
-  <a href="https://about.gitlab.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/> 
-  </a>
-  
-  <!-- CI/CD -->
-  <a href="https://icons8.com/icons/set/continuous-integration" target="_blank" rel="noreferrer"> 
-    <img src="https://img.icons8.com/dusk/64/000000/continuous-integration.png" alt="ci-cd" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  
-  <!-- Backend & API -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://nginx.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-  </a>
-  
-  <!-- Mobile Development -->
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a>
-  <a href="https://developer.apple.com/ios/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/> 
-  </a>
-</p>
+### 💡 Core Expertise
+- Flutter (Clean Architecture, State Management, Performance)
+- Go (REST APIs, Auth, Concurrency, Micro-services basics)
+- Firebase, PostgreSQL, MongoDB
+- AWS, Docker, CI/CD
+- Git, GitHub, GitLab
+- Linux, Nginx
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeYo0o&show_icons=true&theme=algolia" alt="Moaz's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeYo0o&theme=algolia" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MeYo0o&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
-<br>
-
-## 🏆 Achievements
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MeYo0o&layout=compact&theme=algolia" alt="Moaz" />
-  </a> 
+  <img src="https://github-readme-stats.vercel.app/api?username=MeYo0o&show_icons=true&theme=algolia" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeYo0o&theme=algolia" />
 </p>
 
 <br>
@@ -193,21 +104,15 @@ Here are some of our flagship projects at Innovation Labs:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/moaz-ahmed-146a16b8/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Moaz" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/engMeyo" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Moaz" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://www.innolabs.ai/" target="blank">
-    <img align="center" src="https://www.innolabs.ai/static/media/Inno%20Logo.f01a7f7f1801f864a230.png" alt="Innovation Labs" height="40" width="40" />
+    <img src="https://www.innolabs.ai/static/media/Inno%20Logo.f01a7f7f1801f864a230.png" height="40" width="40" />
   </a>
 </p>
 
-<br>
-
 <div align="center">
-  
-  <img src="https://www.innolabs.ai/static/media/Inno%20Logo.f01a7f7f1801f864a230.png" width="200" alt="Innovation Labs Logo">
-  
-  *"Innovation distinguishes between a leader and a follower." - Steve Jobs*
+  <img src="https://www.innolabs.ai/static/media/Inno%20Logo.f01a7f7f1801f864a230.png" width="160">
+  <br><br>
+  <i>"Build products. Solve problems. Scale impact."</i>
 </div>
