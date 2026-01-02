@@ -94,7 +94,7 @@
 ## 🧩 Top Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeYo0o&layout=compact&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MeYo0o" />
 </p>
 
 <br>
@@ -102,12 +102,17 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeYo0o&show_icons=true&hide_title=true&rank_icon=github" />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MeYo0o&bg_color=ffffff&color=57606a&line=2da44e&point=2da44e&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/MeYo0o" alt="GitHub Contributions" />
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeYo0o&theme=github" />
 </p>
+
 
 <br>
 
