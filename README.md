@@ -3,12 +3,12 @@
 
 <p align="center">
   <a href="https://www.innolabs.ai/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=26&duration=5000&color=2AA889&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+Software+Engineer;Flutter+%7C+Go+Backend+%7C+Web;Building+Scalable+Products+from+Zero+to+Production" alt="Headline" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=26&duration=5000&color=2AA889&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Software+Engineer;Flutter+%7C+Go+Backend+%7C+Web;Building+Scalable+Products+from+Zero+to+Production" />
   </a>
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=MeYo0o&label=Profile%20views&color=0e75b6&style=flat" alt="Moaz" /> 
+  <img src="https://komarev.com/ghpvc/?username=MeYo0o&label=Profile%20views&color=0e75b6&style=flat" /> 
 </p>
 
 <br>
@@ -18,11 +18,11 @@
 - 🧠 **Senior Full-Stack Software Engineer** with strong product mindset  
 - 📱 **Flutter Mobile Engineer** — **6+ years** building production-grade apps  
 - ⚙️ **Go Backend Developer** — **2+ years** designing scalable APIs & services  
-- 🌐 **Web Developer** (React / Modern Web Stack)  
-- 🏗️ Building real-world products from **idea → architecture → production**
-- 🧪 Strong focus on **clean code, scalability, and performance**
-- 🏢 Currently building products under **[Innovation Labs](https://www.innolabs.ai/)**
-- 📫 Reach me at: **moaz@innolabs.ai**
+- 🌐 **Web Developer** (React & Modern Web Stack)  
+- 🏗️ From **idea → architecture → production**
+- 🧪 Clean code, scalability & performance focused
+- 🏢 Building products under **[Innovation Labs](https://www.innolabs.ai/)**
+- 📫 Contact: **moaz@innolabs.ai**
 
 <br>
 
@@ -31,48 +31,48 @@
 <table>
   <tr>
     <td width="33.3%" align="center">
-      <h3>🅿️ Pass — Smart Parking App</h3>
+      <h3>🅿️ Pass — Smart Parking</h3>
       <a href="https://github.com/MeYo0o/pass-production-screenshots/">
-        <img src="https://u.cubeupload.com/MeYo/Passmin.png" width="100%" alt="Pass App">
+        <img src="https://u.cubeupload.com/MeYo/Passmin.png" width="100%">
       </a>
-      <p>Ticketless parking, pre-booking & digital wallet used across Kuwait & Bahrain.</p>
+      <p>Ticketless parking & digital wallet across Kuwait & Bahrain.</p>
     </td>
     <td width="33.3%" align="center">
-      <h3>💬 Chatty — Business Communication</h3>
+      <h3>💬 Chatty — Business Chat</h3>
       <a href="https://github.com/MeYo0o/slack-clone-production-screenshots/">
-        <img src="https://u.cubeupload.com/MeYo/Chattymin.png" width="100%" alt="Chatty">
+        <img src="https://u.cubeupload.com/MeYo/Chattymin.png" width="100%">
       </a>
-      <p>Enterprise chat platform with messaging, voice & video calls.</p>
+      <p>Enterprise messaging with voice & video calls.</p>
     </td>
     <td width="33.3%" align="center">
-      <h3>🛍️ Matjar — E-Commerce Platform</h3>
+      <h3>🛍️ Matjar — E-Commerce</h3>
       <a href="https://github.com/MeYo0o/matjar-production-screenshots/">
-        <img src="https://u.cubeupload.com/MeYo/Matjarmin.png" width="100%" alt="Matjar">
+        <img src="https://u.cubeupload.com/MeYo/Matjarmin.png" width="100%">
       </a>
-      <p>Multi-vendor e-commerce system with advanced seller & order management.</p>
+      <p>Multi-vendor e-commerce platform.</p>
     </td>
   </tr>
   <tr>
     <td width="33.3%" align="center">
-      <h3>🚚 Tiptop — Multi-Service Delivery</h3>
+      <h3>🚚 Tiptop — Delivery</h3>
       <a href="https://github.com/MeYo0o/tiptop-production-screenshots/">
-        <img src="https://u.cubeupload.com/MeYo/TipTopmin.png" width="100%" alt="Tiptop">
+        <img src="https://u.cubeupload.com/MeYo/TipTopmin.png" width="100%">
       </a>
-      <p>Food, grocery, water delivery + taxi services (Iraq).</p>
+      <p>Food, grocery & taxi services (Iraq).</p>
     </td>
     <td width="33.3%" align="center">
-      <h3>👔 CVme — Professional Networking</h3>
+      <h3>👔 CVme — Networking</h3>
       <a href="https://github.com/MeYo0o/cvme-production-screenshots/">
-        <img src="https://u.cubeupload.com/MeYo/CVmemin.png" width="100%" alt="CVme">
+        <img src="https://u.cubeupload.com/MeYo/CVmemin.png" width="100%">
       </a>
-      <p>LinkedIn-like platform connecting companies, recruiters & professionals.</p>
+      <p>Professional networking platform.</p>
     </td>
     <td width="33.3%" align="center">
-      <h3>🎓 All Academy — Online Courses</h3>
+      <h3>🎓 All Academy</h3>
       <a href="https://github.com/MeYo0o/allAcademy-production-screenshots">
-        <img src="https://u.cubeupload.com/MeYo/AllAcademymin.png" width="100%" alt="All Academy">
+        <img src="https://u.cubeupload.com/MeYo/AllAcademymin.png" width="100%">
       </a>
-      <p>Instructor-student platform similar to Udemy.</p>
+      <p>Online learning platform like Udemy.</p>
     </td>
   </tr>
 </table>
@@ -81,21 +81,32 @@
 
 ## 🛠️ Tech Stack
 
-### 💡 Core Expertise
-- Flutter (Clean Architecture, State Management, Performance)
-- Go (REST APIs, Auth, Concurrency, Micro-services basics)
-- Firebase, PostgreSQL, MongoDB
+- **Flutter / Dart**
+- **Go (Golang)**
+- REST APIs, Firebase
+- PostgreSQL, MongoDB
 - AWS, Docker, CI/CD
 - Git, GitHub, GitLab
 - Linux, Nginx
 
 <br>
 
-## 📊 GitHub Stats
+## 🧩 Top Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeYo0o&show_icons=true&theme=algolia" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeYo0o&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeYo0o&layout=compact&langs_count=8" />
+</p>
+
+<br>
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MeYo0o&show_icons=true&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/MeYo0o" alt="GitHub Contributions" />
 </p>
 
 <br>
@@ -103,10 +114,19 @@
 ## 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/moaz-ahmed-146a16b8/" target="blank">
+  <a href="https://www.linkedin.com/in/moaz-ahmed-146a16b8/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
-  <a href="https://www.innolabs.ai/" target="blank">
+
+  <a href="mailto:moaz2025@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" height="30" width="40" />
+  </a>
+
+  <a href="mailto:moaz@innolabs.ai">
+    <img src="https://img.icons8.com/color/48/secured-letter.png" height="30" width="40" />
+  </a>
+
+  <a href="https://www.innolabs.ai/" target="_blank">
     <img src="https://www.innolabs.ai/static/media/Inno%20Logo.f01a7f7f1801f864a230.png" height="40" width="40" />
   </a>
 </p>
