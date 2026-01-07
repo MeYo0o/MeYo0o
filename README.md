@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.innolabs.ai/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=26&duration=5000&color=2AA889&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Software+Engineer;Flutter+%7C+Go+Backend+%7C+Web;Building+Scalable+Products+from+Zero+to+Production" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=consolas&size=26&duration=5000&color=2AA889&center=true&vCenter=true&width=700&lines=Senior+Full-Stack+Software+Engineer;Flutter+%7C+Go+Backend+%7C+Web;Production+Scalable+Products" />
   </a>
 </p>
 
