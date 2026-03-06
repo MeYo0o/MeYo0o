@@ -107,11 +107,11 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=MeYo0o&bg_color=ffffff&color=57606a&line=2da44e&point=2da44e&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     width="100%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MeYo0o&theme=github" />
-</p>
+</p> -->
 
 
 <br>
