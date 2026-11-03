@@ -127,17 +127,11 @@
     <img src="https://img.icons8.com/color/48/gmail-new.png" height="30" width="40" />
   </a>
 
-  <a href="mailto:moaz@innolabs.ai">
-    <img src="https://img.icons8.com/color/48/secured-letter.png" height="30" width="40" />
-  </a>
-
   <a href="https://www.innolabs.ai/" target="_blank">
     <img src="https://www.innolabs.ai/static/media/Inno%20Logo.f01a7f7f1801f864a230.png" height="40" width="40" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://www.innolabs.ai/static/media/Inno%20Logo.f01a7f7f1801f864a230.png" width="160">
-  <br><br>
   <i>"Build products. Solve problems. Scale impact."</i>
 </div>
