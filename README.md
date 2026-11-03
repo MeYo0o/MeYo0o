@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moaz Ahmed</h1>
-<h3 align="center">Senior Full-Stack Software Engineer @ Innovation Labs</h3>
+<h3 align="center">Senior Full-Stack Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.innolabs.ai/">
